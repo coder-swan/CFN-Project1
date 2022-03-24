@@ -29,12 +29,11 @@ All of this will be achieved with styles, fonts, images and videos that will ent
 <span id="user-goals"></span>
 
 ## **User goals**
-- As a user, I would like what is being displayed to me to be informative and clear.
-- As a user, I would like to feel like I am joining a reputable CrossFit gym and trust in doing so. 
-- As a user, I would like it to be easy and feel comfortable with navigating the site.
-- As a user, I would like to be able to visit the gym and so, to do so, know where it is.
-- As a user, I would like to be able to view a scheduele of availability so that I can see what time best suits me to go. 
-- As a user, I do not want to feel as though I am incapable of doing any of the above.
+- To be informed of what CrossFit is.
+- To see images and videos to aid this.
+- To know where the gym is.
+- To know when and what type classes are available. 
+- To be able to contact the gym for further queries if needed. 
 
 ---
 
@@ -42,7 +41,12 @@ All of this will be achieved with styles, fonts, images and videos that will ent
 
 ## **User Stories**
 
-Some text 
+- As a user, I would like what is being displayed to me to be informative and clear.
+- As a user, I would like to feel like I am joining a reputable CrossFit gym and trust in doing so. 
+- As a user, I would like it to be easy and feel comfortable with navigating the site.
+- As a user, I would like to be able to visit the gym and so, to do so, know where it is.
+- As a user, I would like to be able to view a scheduele of availability so that I can see what time best suits me to go. 
+- As a user, I do not want to feel as though I am incapable of doing any of the above. 
 
 ---
 
@@ -50,7 +54,12 @@ Some text
 
 ## **User Requirements And Expectations**
 
-Some text
+### Requirements 
+- Easy to navigate on different size screens.
+- A home page that makes a professional and attractive first impression.
+- An about page that is successfully informs the user on CrossFit.
+- A table of classes and class types that is easy to understand. 
+- An efficient contact form.
 
 ---
 
