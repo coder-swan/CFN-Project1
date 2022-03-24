@@ -6,11 +6,91 @@ Within the site you will gain insite into what CrossFit is and how it will benef
 
 All of this will be achieved with styles, fonts, images and videos that will entice any potential customers to join and will be executed with simplicity not to confuse the viewer. </p>
 
-## Table Of Contents
+## **Table Of Contents**
 - <a href="#user-goals">User goals</a>
+- <a href="#user-stories">User Stories</a>
+- <a href="#user-requirements">User Requirements and Expectations</a>
+- <a href="#design-choices">Design Choices</a>
+- <a href="#fonts">Fonts</a>
+- <a href="#icons">Icons</a>
+- <a href="#colors">Colors</a>
+- <a href="#struture">Structure</a>
+- <a href="#wireframes">Wireframes</a>
+- <a href="#features">Features</a>
+- <a href="#existing-features">Existing Features</a>
+- <a href="#navigation-bar">Navigation Bar</a>
+- <a href="#home-page">Home Page</a>
+- <a href="#about-crossFit">About CrossFit</a>
+- <a href="#classes-timetable">Classes and Timetable</a>
+- <a href="#contact-us">Contact Us</a>
+
+---
 
 <span id="user-goals"></span>
 
-## User goals
+## **User goals**
+Some text
+
+---
+
+<span id="user-stories"></span>
+
+## **User Stories**
+
+Some text 
+
+---
+
+<span id="user-requirements"></span>
+
+## **User Requirements And Expectations**
 
 Some text
+
+---
+
+<span id="design-choices"></span>
+
+## **Design Choices**
+
+Some text 
+
+<span id="fonts"></span>
+
+### Fonts
+
+Some text 
+
+<span id="icons"></span>
+
+### icons
+
+Some text 
+
+<span id="colors"></span>
+
+### Colors
+
+Some text 
+
+<span id="structure"></span>
+
+### Structure
+
+Some text 
+
+---
+
+<span id="wireframes"></span>
+
+## **Wireframes
+
+Some text 
+
+---
+
+<span id="features"></span>
+
+### Features
+
+Some text 
