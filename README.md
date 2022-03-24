@@ -29,7 +29,12 @@ All of this will be achieved with styles, fonts, images and videos that will ent
 <span id="user-goals"></span>
 
 ## **User goals**
-- To make 
+- As a user, I would like what is being displayed to me to be informative and clear.
+- As a user, I would like to feel like I am joining a reputable CrossFit gym and trust in doing so. 
+- As a user, I would like it to be easy and feel comfortable with navigating the site.
+- As a user, I would like to be able to visit the gym and so, to do so, know where it is.
+- As a user, I would like to be able to view a scheduele of availability so that I can see what time best suits me to go. 
+- As a user, I do not want to feel as though I am incapable of doing any of the above.
 
 ---
 
