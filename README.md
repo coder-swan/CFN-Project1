@@ -61,6 +61,12 @@ All of this will be achieved with styles, fonts, images and videos that will ent
 - A table of classes and class types that is easy to understand. 
 - An efficient contact form.
 
+### Expectations
+- To have the 3 social media links to open in new tabs.
+- For the navigation throughout the site to work correctly
+- If the site is viewed on different siz screen for the sttructural integrity not to suffer. 
+- For all the information to be accurate and well informed. 
+
 ---
 
 <span id="design-choices"></span>
@@ -73,7 +79,7 @@ All of this will be achieved with styles, fonts, images and videos that will ent
 
 ### Fonts
 
-Some text 
+For the headings and sub-headings on the site I have chosen to use [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue?preview.text=lato&preview.text_type=custom#standard-styles) font as I believe it is a bold and strong font that suitably represents the ideology of a gym. Through being bold and strong, this in my opinion reflects the atitude of the audience this site will attract. For other areas of text I shall use [Prompt](https://fonts.google.com/specimen/Prompt?preview.text=lato&preview.text_type=custom&query=pt#standard-styles) as after researching what would work well with Bebas Neue I found this one and liked the way they looked together. 
 
 <span id="icons"></span>
 
@@ -86,6 +92,7 @@ Some text
 ### Colors
 
 Some text 
+
 
 <span id="structure"></span>
 
