@@ -6,4 +6,14 @@ Within the site you will gain insite into what CrossFit is and how it will benef
 
 All of this will be achieved with styles, fonts, images and videos that will entice any potential customers to join and will be executed with simplicity not to confuse the viewer. </p>
 
+<h2>Table Of Contents</h2>
+<a href="#user-goals> User Goals</a>
+
+    <div id="user-goals> 
+        <h2> User Goals </h2>
+            <ul> 
+                <li> To create aesthetically pleasing content and usability</li>
+            </ul>
+    </div>
+
 
