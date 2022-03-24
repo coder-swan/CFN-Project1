@@ -29,7 +29,7 @@ All of this will be achieved with styles, fonts, images and videos that will ent
 <span id="user-goals"></span>
 
 ## **User goals**
-Some text
+- To make 
 
 ---
 
