@@ -91,7 +91,22 @@ For the icons that I am going to be using on my site I have used [Font Awesome](
 
 ### Colors
 
-Some text 
+For this section I have chosen to use [Coolers.co](https://coolors.co/) as they have a color scheme that I think will best represent the attitude and feel of the site. The color scheme that I have chosen is as follows:
+
+![006466](https://via.placeholder.com/50/006466/000000?text=+) `#006466`
+
+![0b525b](https://via.placeholder.com/50/0b525b/000000?text=+) `#0b525b`
+
+![1b3a4b](https://via.placeholder.com/50/1b3a4b/000000?text=+) `#1b3a4b`
+
+![312244](https://via.placeholder.com/50/312244/000000?text=+) `#312244`
+
+![3e1f47](https://via.placeholder.com/50/3e1f47/000000?text=+) `#3e1f47`
+
+![4d194d](https://via.placeholder.com/50/4d194d/000000?text=+) `#4d194d`
+
+I have chosen this color scheme because I believe that they represent or imply both masculine and feminine connotations throught the site. Having a dark, strong and slightly colder color for the background whilst having an electric purple to give it a bit of pop and excitement. 
+
 
 
 <span id="structure"></span>
