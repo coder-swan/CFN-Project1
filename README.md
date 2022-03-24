@@ -83,9 +83,9 @@ For the headings and sub-headings on the site I have chosen to use [Bebas Neue](
 
 <span id="icons"></span>
 
-### icons
+### Icons
 
-Some text 
+For the icons that I am going to be using on my site I have used [Font Awesome](https://fontawesome.com/) as they have exactly what I need to complete the project at hand. I will use a number of social media icons as links and also a nu,ber of different icons to represent the different class types available at the gym.  
 
 <span id="colors"></span>
 
