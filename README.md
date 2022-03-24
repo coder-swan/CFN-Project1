@@ -108,10 +108,19 @@ For this section I have chosen to use [Coolers.co](https://coolors.co/) as they 
 I have chosen this color scheme because I believe that they represent or imply both masculine and feminine connotations throught the site. Having a dark, strong and slightly colder color for the background whilst having an electric purple to give it a bit of pop and excitement. 
 
 
-
 <span id="structure"></span>
 
 ### Structure
+
+
+| Screen Size | Breakpoint |
+| ----------- | ----------- |
+| x-small | <576px |
+| small | >576px |
+| medium | >768px |
+| large | >768px |
+| x-large | >1200px |
+
 
 Some text 
 
