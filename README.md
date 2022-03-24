@@ -53,7 +53,7 @@ Some text
 
 ## **Design Choices**
 
-Some text 
+ 
 
 <span id="fonts"></span>
 
@@ -83,7 +83,7 @@ Some text
 
 <span id="wireframes"></span>
 
-## **Wireframes
+## **Wireframes**
 
 Some text 
 
@@ -91,6 +91,37 @@ Some text
 
 <span id="features"></span>
 
-### Features
+## **Features**
 
-Some text 
+ 
+
+
+<span id="navigation-bar"></span>
+
+### Navigation Bar
+
+Some text
+
+<span id="home-page"></span>
+
+### Home Page
+
+Some text
+
+<span id="about-crossfit"></span>
+
+### About CrossFit
+
+Some text
+
+<span id="classes-timetable"></span>
+
+### Classes and Timetable 
+
+Some text
+
+<span id="contact-us"></span>
+
+### Contact Us
+
+Some text
