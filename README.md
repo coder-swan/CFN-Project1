@@ -105,6 +105,8 @@ For this section I have chosen to use [Coolers.co](https://coolors.co/) as they 
 
 ![4d194d](https://via.placeholder.com/50/4d194d/000000?text=+) `#4d194d`
 
+https://coolors.co/palette/b7094c-a01a58-892b64-723c70-5c4d7d-455e89-2e6f95-1780a1-0091ad
+
 I have chosen this color scheme because I believe that they represent or imply both masculine and feminine connotations throught the site. Having a dark, strong and slightly colder color for the background whilst having an electric purple to give it a bit of pop and excitement. 
 
 
@@ -121,16 +123,17 @@ I have chosen this color scheme because I believe that they represent or imply b
 | large | >768px |
 | x-large | >1200px |
 
+I have chosen to approach the build of my website by building it for mobile first. I will use the iPhone 5/SE (320px) as the smallest screen size for it to cater for. The screen size breakpoints above and I will be using as a reference come from [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/) 
 
-Some text 
 
 ---
+
 
 <span id="wireframes"></span>
 
 ## **Wireframes**
 
-Some text 
+The wireframe design programme that I have used for my project is [Balsamic](https://balsamiq.com/) as it is an easy to use and efficient way for me to map out how I would like my site to look. Here are the initial drawings for my site:
 
 ---
 
