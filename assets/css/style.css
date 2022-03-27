@@ -8,6 +8,25 @@
 
 body {
     font-family: Prompt, sans-serif;
-    font-weight: 300;
+    font-weight: bold;
+    color: #4d194d;
+}
+
+h1, h2 {
+    font-family: Prompt, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #006466
+
+}
+
+header {
+    background-color: #4d194d;
+}
+
+#title {
+    text-align: center;
+    font-size: 500%;
+    color:#006466
 
 }
