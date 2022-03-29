@@ -12,13 +12,20 @@ body {
     color: #4d194d;
 }
 
-h1, h2 {
+h1, h2, h3{
     font-family: Bebas Neue, sans-serif;
     font-size: 500%;
     text-transform: uppercase;
     letter-spacing: 3px;
     color:#4d194d;
 
+}
+p {
+    font-family: Prompt, sans-serif;
+    font-weight: bold;
+    color: #4d194d;
+    text-align: center;
+    font-size: 125%;
 }
 
 header {
@@ -51,7 +58,7 @@ header {
 
 }
 #menu a:hover {
-    border-bottom: 1px solid #4d194d;
+    border-top: 1px solid #4d194d;
 
 }
 
@@ -65,6 +72,14 @@ header {
     height: 400px;
     background-repeat: no-repeat;
     
+}
+
+#about {
+    text-align: center;
+    font-size: 100%;
+    background-color:#006466 ;
+    color: #4d194d;
+
 }
 
 
