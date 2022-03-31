@@ -170,40 +170,40 @@ table, th, td {
 
 
   #crossfit1{
-      background: url(assets/images/crossfit1.jpg);
+      background: url(../images/crossfit1.jpg);
       background-size: contain;
       height: 400px;
       background-repeat: no-repeat;
   }
 
   #crossfit2{
-    background: url(assets/images/crossfit2.jpg);
+    background: url(../images/crossfit2.jpg);
     background-size: contain;
     height: 400px;
     background-repeat: no-repeat;
 }
 
 #crossfit3{
-    background: url(assets/images/crossfit3.jpg);
+    background: url(../images/crossfit3.jpg);
     background-size: contain;
     height: 400px;
     background-repeat: no-repeat;
 }
 
 #crossfit4{
-    background: url(assets/images/crossfit4..jpg);
+    background: url(../images/crossfit4..jpg);
     background-size: contain;
     height: 400px;
     background-repeat: no-repeat;
 }
 #crossfit5{
-    background: url(assets/images/crossfit5.jpg);
+    background: url(../images/crossfit5.jpg);
     background-size: contain;
     height: 400px;
     background-repeat: no-repeat;
 }
 #crossfit6{
-    background: url(assets/images/crossfit6.jpg);
+    background: url(../images/crossfit6.jpg);
     background-size: contain;
     height: 400px;
     background-repeat: no-repeat;
