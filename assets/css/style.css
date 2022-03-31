@@ -102,7 +102,7 @@ table {
     width: 80%;
     font-size: 100%;
     background-color: #006466;
-    padding-bottom: 10%;
+    padding: 10% 10% 10% 10%;
     overflow: scroll;
 }
 table th {
@@ -126,6 +126,11 @@ table, th, td {
     background-color: #006466;
     font-size: 150%;
 }
+.open {
+    color: #4d194d;
+    font-size: 150%;
+}
+    
  
 #why-crossfit {
     text-align: center;
@@ -206,5 +211,24 @@ table, th, td {
 form {
     text-align: center;
     background-color: #006466
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+    
+}
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1px;
+    padding: 5%;
+    color: #4d194d;
 }
 
