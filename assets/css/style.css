@@ -49,6 +49,7 @@ p {
     font-size: 125%;
     margin: 10px 100px 10px 100px;
     
+    
 }
 
 header {
@@ -148,7 +149,7 @@ table, th, td {
     
 }
 
-#other-classes {
+#classes {
     background-color: #006466;
 
 }
@@ -230,5 +231,10 @@ footer {
     margin: 1px;
     padding: 5%;
     color: #4d194d;
+}
+
+#break {
+    background-color: #006466;
+    height:30px
 }
 
