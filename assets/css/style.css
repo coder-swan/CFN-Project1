@@ -37,6 +37,7 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 3px;
     color:antiquewhite;
+    background-color: #006466;
     padding-top: 50px;
 
 }
@@ -45,9 +46,10 @@ p {
     font-family: Prompt, sans-serif;
     font-weight: bold;
     color:antiquewhite;
+    background-color: #006466;
     text-align: center;
     font-size: 125%;
-    margin: 10px 100px 10px 100px;
+    padding:0 20% 0 20%;
     
     
 }
@@ -100,10 +102,10 @@ header {
 table {
     text-align: right;
     font-family: Bebas Neue, sans-serif;
-    width: 80%;
+    width: 100%;
+    padding: 5% 10% 5% 10%;
     font-size: 100%;
     background-color: #006466;
-    padding: 10% 10% 10% 10%;
     overflow: scroll;
 }
 table th {
@@ -121,7 +123,6 @@ table, th, td {
 
 #times {
     background-color: #006466;
-    padding: 0 10% 0 5%;
 }
 #hour {
     background-color: #006466;
@@ -213,6 +214,10 @@ form {
     text-align: center;
     background-color:#006466;
     font-size: 150%;
+    
+}
+#message {
+    text-align: left;
     
 }
 
