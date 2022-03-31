@@ -211,7 +211,9 @@ table, th, td {
 
 form {
     text-align: center;
-    background-color: #006466
+    background-color:#006466;
+    font-size: 150%;
+    
 }
 
 footer {
