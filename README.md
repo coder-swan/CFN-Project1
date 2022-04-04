@@ -147,7 +147,7 @@ The wireframe design programme that I have used for my project is [Balsamic](htt
 
 <span id="navigation-bar"></span>
 
-### Navigation Bar
+### Navigation Bar, Home Page and About
 
 This is how I have designed the navigation bar for the CrossFit page:
 
@@ -155,30 +155,31 @@ This is how I have designed the navigation bar for the CrossFit page:
 
 Initially I wanted to have the Navigation Bar coloured like the main logo but it did not stand out enough and was not as easy to read as I would have like it to be. This was also the case with some of the headings so I have altered it to #ffffff. 
 
-<span id="home-page"></span>
 
-### Home Page
-
-Some text
-
-<span id="about-crossfit"></span>
-
-### About CrossFit
-
-Some text
+For the homepage I have picked a CrossFit image in black and white because I believe that it makes a nice contrast with the colors that I have chosen for the site. It then leads straight into the About section of the website which explains what CrossFit is and why it will benefit the person looking to start. 
 
 <span id="classes">
 
 ### Classes
 
+![classes](../CFN-Project1/assets/images/CFN-two.png)
+
+The classes section keeps in line with the design of the rest of the page. It gives information on the three different types of class that is on offer. I have used icons next to the headings to give it some design.
+
 <span id="timetable"></span>
 
 ### Timetable 
 
-Some text
+![timetable](../CFN-Project1/assets/images/CFN-three.png)
+
+This section is a scheduele of classes. It lets the person viewing know which type of class is running and at what time. I wanted it to span the width of the page so that there was maximum space for clarity.
 
 <span id="sign-up"></span>
 
-### Contact Us
+### Sign Up
 
-Some text
+![sign-up](../CFN-Project1/assets/images/CFN-four.png)
+
+Like the rest of the site I have kept this page simple and easy to use. 
+
+
