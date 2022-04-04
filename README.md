@@ -134,7 +134,7 @@ I have chosen to approach the build of my website by building it for mobile firs
 
 ## **Wireframes**
 
-The wireframe design programme that I have used for my project is [Balsamic](https://balsamiq.com/) as it is an easy to use and efficient way for me to map out how I would like my site to look. Here are the initial drawings for my site:
+The wireframe design programme that I have used for my project is [Balsamic](https://balsamiq.com/) as it is an easy to use and efficient way for me to map out how I would like my site to look. There is a copy of the wireframes in the folder at the top. 
 
 ---
 
