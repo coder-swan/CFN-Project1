@@ -21,8 +21,9 @@ All of this will be achieved with styles, fonts, images and videos that will ent
 - <a href="#navigation-bar">Navigation Bar</a>
 - <a href="#home-page">Home Page</a>
 - <a href="#about-crossFit">About CrossFit</a>
-- <a href="#classes-timetable">Classes and Timetable</a>
-- <a href="#contact-us">Contact Us</a>
+- <a href="#classes">Classes</a>
+- <a href="#timetable">Timetable</a>
+- <a href="#sign-up">Contact Us</a>
 
 ---
 
@@ -148,7 +149,11 @@ The wireframe design programme that I have used for my project is [Balsamic](htt
 
 ### Navigation Bar
 
-Some text
+This is how I have designed the navigation bar for the CrossFit page:
+
+![navigation-bar](../CFN-Project1/assets/images/CFN-one.png)
+
+Initially I wanted to have the Navigation Bar coloured like the main logo but it did not stand out enough and was not as easy to read as I would have like it to be. This was also the case with some of the headings so I have altered it to #ffffff. 
 
 <span id="home-page"></span>
 
@@ -162,13 +167,17 @@ Some text
 
 Some text
 
-<span id="classes-timetable"></span>
+<span id="classes">
 
-### Classes and Timetable 
+### Classes
+
+<span id="timetable"></span>
+
+### Timetable 
 
 Some text
 
-<span id="contact-us"></span>
+<span id="sign-up"></span>
 
 ### Contact Us
 

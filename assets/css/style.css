@@ -98,32 +98,20 @@ header {
     height: 400px;
     background-repeat: no-repeat;
 }
-
-table {
-    text-align: right;
-    font-family: Bebas Neue, sans-serif;
-    width: 100%;
-    padding: 5% 10% 5% 10%;
-    font-size: 100%;
+.grid {
+    
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    border-top: 1px solid #4d194d;
+    border-right: 1px solid #4d194d;
     background-color: #006466;
-    overflow: scroll;
 }
-table th {
-    background-color: #006466;
-    padding: 0 20px 0 20px;
-    font-size: 150%;
-}
-table, th, td {
-    border: 1px solid;
-    background-color: #006466;
-  }
-.table-font {
-    font-family: Prompt, sans-serif;
+.grid > span {
+    padding: 8px 4px;
+    border-left: 1px solid #4d194d;
+    border-bottom: 1px solid #4d194d;
 }
 
-#times {
-    background-color: #006466;
-}
 #hour {
     background-color: #006466;
     font-size: 150%;
@@ -163,6 +151,9 @@ table, th, td {
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
+    background-size: contain;
+    height: 400px;
+    background-repeat: no-repeat;
   }
   
   .column {
